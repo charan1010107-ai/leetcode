@@ -1,0 +1,12 @@
+class Solution(object):
+    def numOfStrings(self, patterns, word):
+        """
+        :type patterns: List[str]
+        :type word: str
+        :rtype: int
+        """
+        count = 0
+        for i in range(len(patterns)):
+            if patterns[i] in word:
+                count+=1
+        return count
