@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/charan1010107-ai/leetcode/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/charan1010107-ai/leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/charan1010107-ai/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
