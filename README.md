@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/charan1010107-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [2079-watering-plants](https://github.com/charan1010107-ai/leetcode/tree/master/2079-watering-plants) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/charan1010107-ai/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan1010107-ai/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/charan1010107-ai/leetcode/tree/master/0217-contains-duplicate) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/charan1010107-ai/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan1010107-ai/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/charan1010107-ai/leetcode/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/charan1010107-ai/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
