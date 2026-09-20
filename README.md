@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-watering-plants](https://github.com/charan1010107-ai/leetcode/tree/master/2079-watering-plants) |
+| [3498-reverse-degree-of-a-string](https://github.com/charan1010107-ai/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/charan1010107-ai/leetcode/tree/master/0796-rotate-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/charan1010107-ai/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
