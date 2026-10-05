@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/charan1010107-ai/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/charan1010107-ai/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/charan1010107-ai/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/charan1010107-ai/leetcode/tree/master/1025-divisor-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/charan1010107-ai/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/charan1010107-ai/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/charan1010107-ai/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -74,8 +75,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/charan1010107-ai/leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/charan1010107-ai/leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/charan1010107-ai/leetcode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/charan1010107-ai/leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/charan1010107-ai/leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/charan1010107-ai/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
